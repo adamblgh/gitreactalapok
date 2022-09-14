@@ -1,18 +1,23 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Toggle } from './components/Toggle';
-import { Counter } from './components/Counter';
-import { Todo } from './components/Todo';
-
+import {Toggle} from './components/Toggle';
+import {Todo} from './components/Todo';
+import {Counter} from './components/Counter';
+ 
 function App() {
     return(
-        <div className='container text-center'>
-            <div className="row"><h1>My First React App</h1></div>
-            
-            <Counter />
-            <Toggle />
-            <Todo />
+        <div className="container">
+            <div className="row justify-content-center">
+                <h1 className='w-100 text-center mb-5'>My first react App</h1>
+            </div>
+            <div className="row justify-content-center">
+                <Counter />
+                <Toggle />
+                <Todo />
+            </div>
+ 
         </div>
     );
 }
+ 
 export default App;

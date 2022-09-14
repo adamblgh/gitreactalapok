@@ -4,3 +4,9 @@ text-align: center;
 p{
   font-size: 10rem;
 }
+i{
+  cursor: pointer;
+}
+i:hover{
+  transform: scale(1.3);
+}
