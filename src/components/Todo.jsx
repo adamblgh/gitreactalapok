@@ -13,7 +13,7 @@ export const Todo=()=> {
 
   const handleDelete=(val)=>{
     console.log("Törlés",val)
-    const newArr=Todos.filter(item=>item!=val)
+    const newArr=Todos.filter(item=>item!==val)
     setTodos(newArr)
   }
 
