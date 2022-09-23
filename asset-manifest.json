@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adamblgh/gitreactalapok.git/static/css/main.6c947af4.css",
+    "main.js": "/adamblgh/gitreactalapok.git/static/js/main.0d9df6ac.js",
+    "index.html": "/adamblgh/gitreactalapok.git/index.html",
+    "main.6c947af4.css.map": "/adamblgh/gitreactalapok.git/static/css/main.6c947af4.css.map",
+    "main.0d9df6ac.js.map": "/adamblgh/gitreactalapok.git/static/js/main.0d9df6ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c947af4.css",
+    "static/js/main.0d9df6ac.js"
+  ]
+}
