@@ -2,7 +2,7 @@
   "name": "elso",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/adamblgh/gitreactalapok.git",
+  "homepage": "https://adamblgh.github.io/gitreactalapok.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
